@@ -1,0 +1,9 @@
+C:\Projects\unit-test-homework-00\UnitTestHomework00\UnitTestHomework00\bin\Debug\netcoreapp2.1\UnitTestHomework00.Core.deps.json
+C:\Projects\unit-test-homework-00\UnitTestHomework00\UnitTestHomework00\bin\Debug\netcoreapp2.1\UnitTestHomework00.Core.dll
+C:\Projects\unit-test-homework-00\UnitTestHomework00\UnitTestHomework00\bin\Debug\netcoreapp2.1\UnitTestHomework00.Core.pdb
+C:\Projects\unit-test-homework-00\UnitTestHomework00\UnitTestHomework00\obj\Debug\netcoreapp2.1\UnitTestHomework00.Core.csprojAssemblyReference.cache
+C:\Projects\unit-test-homework-00\UnitTestHomework00\UnitTestHomework00\obj\Debug\netcoreapp2.1\UnitTestHomework00.Core.csproj.CoreCompileInputs.cache
+C:\Projects\unit-test-homework-00\UnitTestHomework00\UnitTestHomework00\obj\Debug\netcoreapp2.1\UnitTestHomework00.Core.AssemblyInfoInputs.cache
+C:\Projects\unit-test-homework-00\UnitTestHomework00\UnitTestHomework00\obj\Debug\netcoreapp2.1\UnitTestHomework00.Core.AssemblyInfo.cs
+C:\Projects\unit-test-homework-00\UnitTestHomework00\UnitTestHomework00\obj\Debug\netcoreapp2.1\UnitTestHomework00.Core.dll
+C:\Projects\unit-test-homework-00\UnitTestHomework00\UnitTestHomework00\obj\Debug\netcoreapp2.1\UnitTestHomework00.Core.pdb

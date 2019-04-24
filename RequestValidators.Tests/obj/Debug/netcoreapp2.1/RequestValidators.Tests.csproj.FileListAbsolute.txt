@@ -1,0 +1,14 @@
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\bin\Debug\netcoreapp2.1\RequestValidators.Tests.deps.json
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\bin\Debug\netcoreapp2.1\RequestValidators.Tests.runtimeconfig.json
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\bin\Debug\netcoreapp2.1\RequestValidators.Tests.runtimeconfig.dev.json
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\bin\Debug\netcoreapp2.1\RequestValidators.Tests.dll
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\bin\Debug\netcoreapp2.1\RequestValidators.Tests.pdb
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\obj\Debug\netcoreapp2.1\RequestValidators.Tests.csprojAssemblyReference.cache
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\obj\Debug\netcoreapp2.1\RequestValidators.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\obj\Debug\netcoreapp2.1\RequestValidators.Tests.AssemblyInfoInputs.cache
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\obj\Debug\netcoreapp2.1\RequestValidators.Tests.AssemblyInfo.cs
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\obj\Debug\netcoreapp2.1\RequestValidators.Tests.dll
+C:\Projects\unit-test-homework-00\UnitTestHomework00\RequestValidators.Tests\obj\Debug\netcoreapp2.1\RequestValidators.Tests.pdb
